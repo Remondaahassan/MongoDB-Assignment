@@ -1,0 +1,5 @@
+team:
+  matches_played: <class 'int'>
+  climbed_count: <class 'int'>
+  total_balls: <class 'int'>
+  balls: <class 'list'> 
